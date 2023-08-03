@@ -1,7 +1,7 @@
 subscribers:
 
   camera_reading:
-    topic: /camera/rgb/image_raw
+    topic: /left_cam_node/image_raw
     queue_size: 1
 
 actions:
